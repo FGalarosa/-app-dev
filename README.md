@@ -1,55 +1,22 @@
-# -app-dev
-My first repository
-# Markdown Cheat Sheet
+# Arcane: Can't By Me Love
 
-## Headings
-# Heading 1  
-## Heading 2  
-### Heading 3  
-#### Heading 4  
+**Genre:** Romance
 
----
+**Creator:** Jonathan Gould
 
-## Text Formatting
-- **Bold**: `**bold text**` → **bold text**  
-- *Italic*: `*italic text*` → *italic text*  
-- ~~Strikethrough~~: `~~strikethrough~~` → ~~strikethrough~~  
+**Plot:** When a young man gets caught up in a deadly plot against a rich woman, he pays a devastating cost to free her creating a debt that binds them together.
 
----
+**Main Characters:** 
+- **Bingo:** Donny Pangilinan
+- **Caroline:** Belle Mariano
+- **Irene:** Maris Racal
+- **Stephen:** Darren Espanto
 
-## Lists
+**Release Date:** October 13, 2023
 
-### Unordered Lists
-- Item 1  
-- Item 2  
-  - Subitem  
-  - Subitem  
+**Seasons:** 1
 
-### Ordered Lists
-1. First item  
-2. Second item  
-3. Third item  
+**Episodes:** 148
 
----
+**Streaming on:** https://www.iwanttfc.com/#!/open/cantbuymelove
 
-## Links and Images
-
-### Links
-[Visit Markdown Guide](https://www.markdownguide.org)
-
-### Images
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
----
-
-## Blockquotes
-> This is a blockquote.
-
----
-
-## Code
-
-### Inline Code
-Here is `inline code`.
-
-### Code Block
